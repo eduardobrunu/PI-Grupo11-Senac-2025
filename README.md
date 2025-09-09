@@ -32,17 +32,17 @@
 - **Home**  
 ![Home](fase2/prototipos/home.png)
 
+- **Cadastro de Professor**  
+![Cadastrar Professor](fase2/prototipos/cadastrar_professor.png)
+
 - **Professores (lista)**  
 ![Professores](fase2/prototipos/professores.png)
-
-- **Alunos (lista)**  
-![Alunos](fase2/prototipos/aluno.png)
 
 - **Cadastro de Aluno**  
 ![Cadastrar Aluno](fase2/prototipos/cadastrar_aluno.png)
 
-- **Cadastro de Professor**  
-![Cadastrar Professor](fase2/prototipos/cadastrar_professor.png)
+- **Alunos (lista)**  
+![Alunos](fase2/prototipos/aluno.png)
 
 - **Cadastro de Fornecedor**  
 ![Cadastrar Fornecedor](fase2/prototipos/cadastrar_fornecedor.png)
